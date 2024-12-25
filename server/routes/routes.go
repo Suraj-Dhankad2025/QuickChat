@@ -3,8 +3,8 @@ package routes
 import (
 	"net/http"
 
-	"parthlaw/chat-server/controllers"
-	"parthlaw/chat-server/utils"
+	"Suraj-Dhankad2025/chat-server/controllers"
+	"Suraj-Dhankad2025/chat-server/utils"
 
 	"github.com/gorilla/mux"
 	"gorm.io/gorm"
